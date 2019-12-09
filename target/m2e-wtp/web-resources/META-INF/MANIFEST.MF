@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: egakat-io-conciliaciones-clientes-ibw
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: server.developer
+Implementation-Vendor-Id: com.egakat
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/egakat-io-conciliaciones/egakat-io-conciliaciones-c
+ lientes-ibw
+Created-By: Maven Integration for Eclipse
+

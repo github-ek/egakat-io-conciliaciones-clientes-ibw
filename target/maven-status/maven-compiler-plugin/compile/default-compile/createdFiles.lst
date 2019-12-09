@@ -1,0 +1,14 @@
+com\egakat\io\clientes\ibw\constants\Constants.class
+com\egakat\io\clientes\ibw\service\impl\IbwSaldosInventarioServiceImpl.class
+com\egakat\io\clientes\ibw\repository\SaldoInventarioRepository.class
+com\egakat\io\clientes\ibw\tasks\Task.class
+com\egakat\io\clientes\ibw\configuration\JpaConfiguration.class
+com\egakat\io\clientes\ibw\enums\EstadoRegistroType.class
+com\egakat\io\clientes\ibw\service\api\IbwSaldosInventarioService.class
+META-INF\spring-configuration-metadata.json
+com\egakat\ServletInitializer.class
+com\egakat\io\clientes\ibw\domain\SaldoInventario.class
+com\egakat\io\clientes\ibw\configuration\RestConfiguration.class
+com\egakat\io\clientes\ibw\configuration\JpaAuditingConfiguration.class
+com\egakat\io\clientes\ibw\constants\MapasConstants.class
+com\egakat\Application.class
